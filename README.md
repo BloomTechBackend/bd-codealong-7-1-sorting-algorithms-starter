@@ -1,3 +1,7 @@
+Set Up
+1. Clone this project to your machine using `git clone <project url>`
+2. Open project in `Intellij`. Gradle should build your project automatically.
+
 # 7.1 Sorting Algorithms
 
 Sorting algorithms are a staple of computer programming and an excellent way to understand computational complexity and Big O notation.
